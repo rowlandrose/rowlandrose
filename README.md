@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Rowland
 
-<!--
-**rowlandrose/rowlandrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer turned VP of Technology at RealClearPolitics. I lead the engineering
+team behind 17+ websites. Most of my work code lives in the RealClearTechLab 
+organization's private repositories, so it shows up here as contributions rather 
+than projects.
 
-Here are some ideas to get you started:
+**Work stack:** Next.js, Payload CMS, Vercel, Cloudflare, PHP
+**AI tools:** Claude Code, custom Claude skills, MCP servers and connectors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Side projects
+Hand-coded, for fun:
+- **MIDIRen** – a generative multi-track MIDI sequencer for live use on a Raspberry Pi
+- **old_school_jrpg_map_generator** – random 8-bit/16-bit overworld maps, written in Rust
+- **create.world** – same thing, in JavaScript
+
+[LinkedIn](https://www.linkedin.com/in/rowlandrose/)
